@@ -4,7 +4,7 @@ This is a PyTorch implementation of [Self-Supervised GANs with Label Augmentatio
 
 ## Usage
 
-The folder [BigGAN-PyTorch](/BigGAN-PyTorch) includes the codes of the main experiments in the paper, and the file [MoG.ipynb](/MoG.ipynb) is the jupyter of the one-dimensional synthetic experiment.
+The folder [BigGAN-PyTorch](/BigGAN-PyTorch) includes the codes of the main experiments in the paper, and the folder [MoG](/MoG) includes the jupyter of the one-dimensional synthetic experiment.
 
 ![results](/imgs/1d.png)
 
