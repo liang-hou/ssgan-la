@@ -36,19 +36,19 @@ python calculate_inception_moments.py --dataset DATASET --data_root data
 - run SSGAN-LA on CIFAR-10
 
 ```sh
-sh scripts/launch_cifar10_ema.sh
+sh scripts/launch_cifar10_ema_ssganla.sh
 ```
 
 - run SSGAN-LA on STL-10
 
 ```sh
-sh scripts/launch_stl10_ema.sh
+sh scripts/launch_stl10_ema_ssganla.sh
 ```
 
 - run SSGAN-LA on Tiny-ImageNet
 
 ```sh
-sh scripts/launch_tiny_ema.sh
+sh scripts/launch_tiny_ema_ssganla.sh
 ```
 
 ## Acknowledgements
