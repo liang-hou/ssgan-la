@@ -4,7 +4,7 @@ You will need:
 - [PyTorch](https://PyTorch.org/), version 1.6.0
 - tqdm, numpy, scipy, and h5py
 
-Before runining SSGAN-LA on Tiny-ImageNet, you need to manully download the Tiny-ImageNet dataset and store it into `data` folder with the following structure.
+Before running SSGAN-LA on Tiny-ImageNet, you need to manually download the Tiny-ImageNet dataset and store it into [data](./) folder with the following structure.
 
 ```
 tiny_imagenet
@@ -27,7 +27,7 @@ tiny_imagenet
         ...
 ```
 
-Before first runing methods on a dataset named `DATASET={C10,S10,TINY}`, please run following command to prepare the statistics for calculating FID.
+Before first running methods on a dataset named `DATASET={C10,S10,TINY}`, please run the following command to prepare the statistics for calculating FID.
 
 ```shell
 python calculate_inception_moments.py --dataset DATASET --data_root data
