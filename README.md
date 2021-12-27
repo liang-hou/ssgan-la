@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of [Self-Supervised GANs with Label Augmentation](https://arxiv.org/abs/2106.08601).
 
-![model](/imgs/ssganla_model.pdf)
+<div align=center><img height=300 width=600 src=/imgs/model.png /></div>
 
 ## Usage
 
