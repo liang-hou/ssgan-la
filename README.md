@@ -2,6 +2,8 @@
 
 This is a PyTorch implementation of [Self-Supervised GANs with Label Augmentation](https://arxiv.org/abs/2106.08601).
 
+![model](/imgs/ssganla_model.pdf)
+
 ## Usage
 
 The folder [BigGAN-PyTorch](/BigGAN-PyTorch) includes the codes of the main experiments (on CIFAR-10, STL-10, and Tiny-ImageNet) in the paper, and the folder [MoG](/MoG) includes the jupyter of the one-dimensional synthetic experiment.
