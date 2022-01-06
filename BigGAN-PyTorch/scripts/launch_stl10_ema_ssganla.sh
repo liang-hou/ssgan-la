@@ -9,5 +9,5 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 --G_init N02 --D_init N02 \
 --ema --use_ema --ema_start 20000 \
 --test_every 1000 --save_every 1000 --num_best_copies 1 --num_save_copies 0 --seed 0 \
---loss ssgan_la --multi_hinge --ss_d 1.0 --ss_g 1.0 \
---num_epochs 400 --experiment_name s10_ssganla_n4_mh
+--loss ssgan_la --multi_hinge --all_T \
+--num_epochs 400 --experiment_name s10_ssganla_n4_mh_allT
