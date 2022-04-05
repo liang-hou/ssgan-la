@@ -15,12 +15,15 @@ The folder [BigGAN-PyTorch](/BigGAN-PyTorch) includes the codes of the main expe
 Please cite our paper if you find the code useful for your research.
 
 ```
-@inproceedings{
-hou2021selfsupervised,
-title={Self-Supervised {GAN}s with Label Augmentation},
-author={Liang Hou and Huawei Shen and Qi Cao and Xueqi Cheng},
-booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
-year={2021},
-url={https://openreview.net/forum?id=MT0pTKLyzkT}
+@inproceedings{NEURIPS2021_6cb5da35,
+ author = {Hou, Liang and Shen, Huawei and Cao, Qi and Cheng, Xueqi},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {13019--13031},
+ publisher = {Curran Associates, Inc.},
+ title = {Self-Supervised GANs with Label Augmentation},
+ url = {https://proceedings.neurips.cc/paper/2021/file/6cb5da3513bd26085ee3fad631ebb37a-Paper.pdf},
+ volume = {34},
+ year = {2021}
 }
 ```
